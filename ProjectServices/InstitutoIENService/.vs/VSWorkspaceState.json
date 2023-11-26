@@ -1,0 +1,13 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\InstitutoIENService.Core\\Entities",
+    "\\InstitutoIENService.Infrastructure\\Repositories",
+    "\\InstitutoIENServices.Api",
+    "\\InstitutoIENServices.Api\\Controllers",
+    "\\InstitutoIENServices.Api\\Properties",
+    "\\InstitutoIENServices.Api\\Responses"
+  ],
+  "SelectedNode": "\\InstitutoIENService.sln",
+  "PreviewInSolutionExplorer": false
+}

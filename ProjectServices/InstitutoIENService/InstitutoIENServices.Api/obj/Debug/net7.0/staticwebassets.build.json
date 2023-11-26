@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "78Bfm51qQr4UgH7U5pPrvIFee4V5YeCQAy98rJqLl1g=",
+  "Source": "InstitutoIENServices.Api",
+  "BasePath": "_content/InstitutoIENServices.Api",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

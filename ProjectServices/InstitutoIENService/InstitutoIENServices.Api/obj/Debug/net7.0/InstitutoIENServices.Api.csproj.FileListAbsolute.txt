@@ -1,0 +1,179 @@
+C:\Datos\IEN\Proyecto 2023\IEN_PP2023_PROJECT\ProjectServices\InstitutoIENService\InstitutoIENServices.Api\bin\Debug\net7.0\appsettings.Development.json
+C:\Datos\IEN\Proyecto 2023\IEN_PP2023_PROJECT\ProjectServices\InstitutoIENService\InstitutoIENServices.Api\bin\Debug\net7.0\appsettings.json
+C:\Datos\IEN\Proyecto 2023\IEN_PP2023_PROJECT\ProjectServices\InstitutoIENService\InstitutoIENServices.Api\bin\Debug\net7.0\InstitutoIENServices.Api.exe
+C:\Datos\IEN\Proyecto 2023\IEN_PP2023_PROJECT\ProjectServices\InstitutoIENService\InstitutoIENServices.Api\bin\Debug\net7.0\InstitutoIENServices.Api.deps.json
+C:\Datos\IEN\Proyecto 2023\IEN_PP2023_PROJECT\ProjectServices\InstitutoIENService\InstitutoIENServices.Api\bin\Debug\net7.0\InstitutoIENServices.Api.runtimeconfig.json
+C:\Datos\IEN\Proyecto 2023\IEN_PP2023_PROJECT\ProjectServices\InstitutoIENService\InstitutoIENServices.Api\bin\Debug\net7.0\InstitutoIENServices.Api.dll
+C:\Datos\IEN\Proyecto 2023\IEN_PP2023_PROJECT\ProjectServices\InstitutoIENService\InstitutoIENServices.Api\bin\Debug\net7.0\InstitutoIENServices.Api.pdb
+C:\Datos\IEN\Proyecto 2023\IEN_PP2023_PROJECT\ProjectServices\InstitutoIENService\InstitutoIENServices.Api\bin\Debug\net7.0\InstitutoIENService.Core.dll
+C:\Datos\IEN\Proyecto 2023\IEN_PP2023_PROJECT\ProjectServices\InstitutoIENService\InstitutoIENServices.Api\bin\Debug\net7.0\InstitutoIENService.Infrastructure.dll
+C:\Datos\IEN\Proyecto 2023\IEN_PP2023_PROJECT\ProjectServices\InstitutoIENService\InstitutoIENServices.Api\bin\Debug\net7.0\InstitutoIENService.Core.pdb
+C:\Datos\IEN\Proyecto 2023\IEN_PP2023_PROJECT\ProjectServices\InstitutoIENService\InstitutoIENServices.Api\bin\Debug\net7.0\InstitutoIENService.Infrastructure.pdb
+C:\Datos\IEN\Proyecto 2023\IEN_PP2023_PROJECT\ProjectServices\InstitutoIENService\InstitutoIENServices.Api\obj\Debug\net7.0\InstitutoIENServices.Api.csproj.AssemblyReference.cache
+C:\Datos\IEN\Proyecto 2023\IEN_PP2023_PROJECT\ProjectServices\InstitutoIENService\InstitutoIENServices.Api\obj\Debug\net7.0\InstitutoIENServices.Api.GeneratedMSBuildEditorConfig.editorconfig
+C:\Datos\IEN\Proyecto 2023\IEN_PP2023_PROJECT\ProjectServices\InstitutoIENService\InstitutoIENServices.Api\obj\Debug\net7.0\InstitutoIENServices.Api.AssemblyInfoInputs.cache
+C:\Datos\IEN\Proyecto 2023\IEN_PP2023_PROJECT\ProjectServices\InstitutoIENService\InstitutoIENServices.Api\obj\Debug\net7.0\InstitutoIENServices.Api.AssemblyInfo.cs
+C:\Datos\IEN\Proyecto 2023\IEN_PP2023_PROJECT\ProjectServices\InstitutoIENService\InstitutoIENServices.Api\obj\Debug\net7.0\InstitutoIENServices.Api.csproj.CoreCompileInputs.cache
+C:\Datos\IEN\Proyecto 2023\IEN_PP2023_PROJECT\ProjectServices\InstitutoIENService\InstitutoIENServices.Api\obj\Debug\net7.0\InstitutoIENServices.Api.MvcApplicationPartsAssemblyInfo.cache
+C:\Datos\IEN\Proyecto 2023\IEN_PP2023_PROJECT\ProjectServices\InstitutoIENService\InstitutoIENServices.Api\obj\Debug\net7.0\staticwebassets.build.json
+C:\Datos\IEN\Proyecto 2023\IEN_PP2023_PROJECT\ProjectServices\InstitutoIENService\InstitutoIENServices.Api\obj\Debug\net7.0\staticwebassets.development.json
+C:\Datos\IEN\Proyecto 2023\IEN_PP2023_PROJECT\ProjectServices\InstitutoIENService\InstitutoIENServices.Api\obj\Debug\net7.0\staticwebassets\msbuild.InstitutoIENServices.Api.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Datos\IEN\Proyecto 2023\IEN_PP2023_PROJECT\ProjectServices\InstitutoIENService\InstitutoIENServices.Api\obj\Debug\net7.0\staticwebassets\msbuild.build.InstitutoIENServices.Api.props
+C:\Datos\IEN\Proyecto 2023\IEN_PP2023_PROJECT\ProjectServices\InstitutoIENService\InstitutoIENServices.Api\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.InstitutoIENServices.Api.props
+C:\Datos\IEN\Proyecto 2023\IEN_PP2023_PROJECT\ProjectServices\InstitutoIENService\InstitutoIENServices.Api\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.InstitutoIENServices.Api.props
+C:\Datos\IEN\Proyecto 2023\IEN_PP2023_PROJECT\ProjectServices\InstitutoIENService\InstitutoIENServices.Api\obj\Debug\net7.0\staticwebassets.pack.json
+C:\Datos\IEN\Proyecto 2023\IEN_PP2023_PROJECT\ProjectServices\InstitutoIENService\InstitutoIENServices.Api\obj\Debug\net7.0\scopedcss\bundle\InstitutoIENServices.Api.styles.css
+C:\Datos\IEN\Proyecto 2023\IEN_PP2023_PROJECT\ProjectServices\InstitutoIENService\InstitutoIENServices.Api\obj\Debug\net7.0\InstitutoIENServices.Api.csproj.CopyComplete
+C:\Datos\IEN\Proyecto 2023\IEN_PP2023_PROJECT\ProjectServices\InstitutoIENService\InstitutoIENServices.Api\obj\Debug\net7.0\InstitutoIENServices.Api.dll
+C:\Datos\IEN\Proyecto 2023\IEN_PP2023_PROJECT\ProjectServices\InstitutoIENService\InstitutoIENServices.Api\obj\Debug\net7.0\refint\InstitutoIENServices.Api.dll
+C:\Datos\IEN\Proyecto 2023\IEN_PP2023_PROJECT\ProjectServices\InstitutoIENService\InstitutoIENServices.Api\obj\Debug\net7.0\InstitutoIENServices.Api.pdb
+C:\Datos\IEN\Proyecto 2023\IEN_PP2023_PROJECT\ProjectServices\InstitutoIENService\InstitutoIENServices.Api\obj\Debug\net7.0\InstitutoIENServices.Api.genruntimeconfig.cache
+C:\Datos\IEN\Proyecto 2023\IEN_PP2023_PROJECT\ProjectServices\InstitutoIENService\InstitutoIENServices.Api\obj\Debug\net7.0\ref\InstitutoIENServices.Api.dll
+C:\Datos\IEN\Proyecto 2023\IEN_PP2023_PROJECT\ProjectServices\InstitutoIENService\InstitutoIENServices.Api\bin\Debug\net7.0\Azure.Core.dll
+C:\Datos\IEN\Proyecto 2023\IEN_PP2023_PROJECT\ProjectServices\InstitutoIENService\InstitutoIENServices.Api\bin\Debug\net7.0\Azure.Identity.dll
+C:\Datos\IEN\Proyecto 2023\IEN_PP2023_PROJECT\ProjectServices\InstitutoIENService\InstitutoIENServices.Api\bin\Debug\net7.0\Humanizer.dll
+C:\Datos\IEN\Proyecto 2023\IEN_PP2023_PROJECT\ProjectServices\InstitutoIENService\InstitutoIENServices.Api\bin\Debug\net7.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Datos\IEN\Proyecto 2023\IEN_PP2023_PROJECT\ProjectServices\InstitutoIENService\InstitutoIENServices.Api\bin\Debug\net7.0\Microsoft.Data.SqlClient.dll
+C:\Datos\IEN\Proyecto 2023\IEN_PP2023_PROJECT\ProjectServices\InstitutoIENService\InstitutoIENServices.Api\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.dll
+C:\Datos\IEN\Proyecto 2023\IEN_PP2023_PROJECT\ProjectServices\InstitutoIENService\InstitutoIENServices.Api\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Datos\IEN\Proyecto 2023\IEN_PP2023_PROJECT\ProjectServices\InstitutoIENService\InstitutoIENServices.Api\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Datos\IEN\Proyecto 2023\IEN_PP2023_PROJECT\ProjectServices\InstitutoIENService\InstitutoIENServices.Api\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Datos\IEN\Proyecto 2023\IEN_PP2023_PROJECT\ProjectServices\InstitutoIENService\InstitutoIENServices.Api\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Datos\IEN\Proyecto 2023\IEN_PP2023_PROJECT\ProjectServices\InstitutoIENService\InstitutoIENServices.Api\bin\Debug\net7.0\Microsoft.Extensions.DependencyModel.dll
+C:\Datos\IEN\Proyecto 2023\IEN_PP2023_PROJECT\ProjectServices\InstitutoIENService\InstitutoIENServices.Api\bin\Debug\net7.0\Microsoft.Identity.Client.dll
+C:\Datos\IEN\Proyecto 2023\IEN_PP2023_PROJECT\ProjectServices\InstitutoIENService\InstitutoIENServices.Api\bin\Debug\net7.0\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Datos\IEN\Proyecto 2023\IEN_PP2023_PROJECT\ProjectServices\InstitutoIENService\InstitutoIENServices.Api\bin\Debug\net7.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Datos\IEN\Proyecto 2023\IEN_PP2023_PROJECT\ProjectServices\InstitutoIENService\InstitutoIENServices.Api\bin\Debug\net7.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Datos\IEN\Proyecto 2023\IEN_PP2023_PROJECT\ProjectServices\InstitutoIENService\InstitutoIENServices.Api\bin\Debug\net7.0\Microsoft.IdentityModel.Logging.dll
+C:\Datos\IEN\Proyecto 2023\IEN_PP2023_PROJECT\ProjectServices\InstitutoIENService\InstitutoIENServices.Api\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.dll
+C:\Datos\IEN\Proyecto 2023\IEN_PP2023_PROJECT\ProjectServices\InstitutoIENService\InstitutoIENServices.Api\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Datos\IEN\Proyecto 2023\IEN_PP2023_PROJECT\ProjectServices\InstitutoIENService\InstitutoIENServices.Api\bin\Debug\net7.0\Microsoft.IdentityModel.Tokens.dll
+C:\Datos\IEN\Proyecto 2023\IEN_PP2023_PROJECT\ProjectServices\InstitutoIENService\InstitutoIENServices.Api\bin\Debug\net7.0\Microsoft.SqlServer.Server.dll
+C:\Datos\IEN\Proyecto 2023\IEN_PP2023_PROJECT\ProjectServices\InstitutoIENService\InstitutoIENServices.Api\bin\Debug\net7.0\Microsoft.Win32.SystemEvents.dll
+C:\Datos\IEN\Proyecto 2023\IEN_PP2023_PROJECT\ProjectServices\InstitutoIENService\InstitutoIENServices.Api\bin\Debug\net7.0\Mono.TextTemplating.dll
+C:\Datos\IEN\Proyecto 2023\IEN_PP2023_PROJECT\ProjectServices\InstitutoIENService\InstitutoIENServices.Api\bin\Debug\net7.0\System.CodeDom.dll
+C:\Datos\IEN\Proyecto 2023\IEN_PP2023_PROJECT\ProjectServices\InstitutoIENService\InstitutoIENServices.Api\bin\Debug\net7.0\System.Configuration.ConfigurationManager.dll
+C:\Datos\IEN\Proyecto 2023\IEN_PP2023_PROJECT\ProjectServices\InstitutoIENService\InstitutoIENServices.Api\bin\Debug\net7.0\System.Drawing.Common.dll
+C:\Datos\IEN\Proyecto 2023\IEN_PP2023_PROJECT\ProjectServices\InstitutoIENService\InstitutoIENServices.Api\bin\Debug\net7.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Datos\IEN\Proyecto 2023\IEN_PP2023_PROJECT\ProjectServices\InstitutoIENService\InstitutoIENServices.Api\bin\Debug\net7.0\System.Memory.Data.dll
+C:\Datos\IEN\Proyecto 2023\IEN_PP2023_PROJECT\ProjectServices\InstitutoIENService\InstitutoIENServices.Api\bin\Debug\net7.0\System.Runtime.Caching.dll
+C:\Datos\IEN\Proyecto 2023\IEN_PP2023_PROJECT\ProjectServices\InstitutoIENService\InstitutoIENServices.Api\bin\Debug\net7.0\System.Security.Cryptography.ProtectedData.dll
+C:\Datos\IEN\Proyecto 2023\IEN_PP2023_PROJECT\ProjectServices\InstitutoIENService\InstitutoIENServices.Api\bin\Debug\net7.0\System.Security.Permissions.dll
+C:\Datos\IEN\Proyecto 2023\IEN_PP2023_PROJECT\ProjectServices\InstitutoIENService\InstitutoIENServices.Api\bin\Debug\net7.0\System.Windows.Extensions.dll
+C:\Datos\IEN\Proyecto 2023\IEN_PP2023_PROJECT\ProjectServices\InstitutoIENService\InstitutoIENServices.Api\bin\Debug\net7.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Datos\IEN\Proyecto 2023\IEN_PP2023_PROJECT\ProjectServices\InstitutoIENService\InstitutoIENServices.Api\bin\Debug\net7.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Datos\IEN\Proyecto 2023\IEN_PP2023_PROJECT\ProjectServices\InstitutoIENService\InstitutoIENServices.Api\bin\Debug\net7.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Datos\IEN\Proyecto 2023\IEN_PP2023_PROJECT\ProjectServices\InstitutoIENService\InstitutoIENServices.Api\bin\Debug\net7.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Datos\IEN\Proyecto 2023\IEN_PP2023_PROJECT\ProjectServices\InstitutoIENService\InstitutoIENServices.Api\bin\Debug\net7.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Datos\IEN\Proyecto 2023\IEN_PP2023_PROJECT\ProjectServices\InstitutoIENService\InstitutoIENServices.Api\bin\Debug\net7.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Datos\IEN\Proyecto 2023\IEN_PP2023_PROJECT\ProjectServices\InstitutoIENService\InstitutoIENServices.Api\bin\Debug\net7.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Datos\IEN\Proyecto 2023\IEN_PP2023_PROJECT\ProjectServices\InstitutoIENService\InstitutoIENServices.Api\bin\Debug\net7.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+C:\Datos\IEN\Proyecto 2023\IEN_PP2023_PROJECT\ProjectServices\InstitutoIENService\InstitutoIENServices.Api\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+C:\Datos\IEN\Proyecto 2023\IEN_PP2023_PROJECT\ProjectServices\InstitutoIENService\InstitutoIENServices.Api\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+C:\Datos\IEN\Proyecto 2023\IEN_PP2023_PROJECT\ProjectServices\InstitutoIENService\InstitutoIENServices.Api\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Datos\IEN\Proyecto 2023\IEN_PP2023_PROJECT\ProjectServices\InstitutoIENService\InstitutoIENServices.Api\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+C:\Datos\IEN\Proyecto 2023\IEN_PP2023_PROJECT\ProjectServices\InstitutoIENService\InstitutoIENServices.Api\bin\Debug\net7.0\Microsoft.AspNetCore.JsonPatch.dll
+C:\Datos\IEN\Proyecto 2023\IEN_PP2023_PROJECT\ProjectServices\InstitutoIENService\InstitutoIENServices.Api\bin\Debug\net7.0\Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll
+C:\Datos\IEN\Proyecto 2023\IEN_PP2023_PROJECT\ProjectServices\InstitutoIENService\InstitutoIENServices.Api\bin\Debug\net7.0\Newtonsoft.Json.dll
+C:\Datos\IEN\Proyecto 2023\IEN_PP2023_PROJECT\ProjectServices\InstitutoIENService\InstitutoIENServices.Api\bin\Debug\net7.0\Newtonsoft.Json.Bson.dll
+C:\Datos\IEN\Proyecto 2023\IEN_PP2023_PROJECT\ProjectServices\InstitutoIENService\InstitutoIENServices.Api\bin\Debug\net7.0\AutoMapper.dll
+C:\Datos\IEN\Proyecto 2023\IEN_PP2023_PROJECT\ProjectServices\InstitutoIENService\InstitutoIENServices.Api\bin\Debug\net7.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+C:\Datos\IEN\Proyecto 2023\IEN_PP2023_PROJECT\ProjectServices\InstitutoIENService\InstitutoIENServices.Api\bin\Debug\net7.0\FluentValidation.dll
+C:\Datos\IEN\Proyecto 2023\IEN_PP2023_PROJECT\ProjectServices\InstitutoIENService\InstitutoIENServices.Api\bin\Debug\net7.0\FluentValidation.AspNetCore.dll
+C:\Datos\IEN\Proyecto 2023\IEN_PP2023_PROJECT\ProjectServices\InstitutoIENService\InstitutoIENServices.Api\bin\Debug\net7.0\FluentValidation.DependencyInjectionExtensions.dll
+C:\Datos\IEN\Proyecto 2023\IEN_PP2023_PROJECT\ProjectServices\InstitutoIENService\InstitutoIENServices.Api\bin\Debug\net7.0\Microsoft.AspNetCore.Mvc.Razor.Extensions.dll
+C:\Datos\IEN\Proyecto 2023\IEN_PP2023_PROJECT\ProjectServices\InstitutoIENService\InstitutoIENServices.Api\bin\Debug\net7.0\Microsoft.AspNetCore.Razor.Language.dll
+C:\Datos\IEN\Proyecto 2023\IEN_PP2023_PROJECT\ProjectServices\InstitutoIENService\InstitutoIENServices.Api\bin\Debug\net7.0\Microsoft.CodeAnalysis.dll
+C:\Datos\IEN\Proyecto 2023\IEN_PP2023_PROJECT\ProjectServices\InstitutoIENService\InstitutoIENServices.Api\bin\Debug\net7.0\Microsoft.CodeAnalysis.CSharp.dll
+C:\Datos\IEN\Proyecto 2023\IEN_PP2023_PROJECT\ProjectServices\InstitutoIENService\InstitutoIENServices.Api\bin\Debug\net7.0\Microsoft.CodeAnalysis.Razor.dll
+C:\Datos\IEN\Proyecto 2023\IEN_PP2023_PROJECT\ProjectServices\InstitutoIENService\InstitutoIENServices.Api\obj\Debug\net7.0\InstitutoIENServices.Api.MvcApplicationPartsAssemblyInfo.cs
+D:\IEN_PP2023_PROJECT\ProjectServices\InstitutoIENService\InstitutoIENServices.Api\obj\Debug\net7.0\InstitutoIENServices.Api.dll
+D:\IEN_PP2023_PROJECT\ProjectServices\InstitutoIENService\InstitutoIENServices.Api\obj\Debug\net7.0\refint\InstitutoIENServices.Api.dll
+D:\IEN_PP2023_PROJECT\ProjectServices\InstitutoIENService\InstitutoIENServices.Api\obj\Debug\net7.0\InstitutoIENServices.Api.pdb
+D:\IEN_PP2023_PROJECT\ProjectServices\InstitutoIENService\InstitutoIENServices.Api\obj\Debug\net7.0\InstitutoIENServices.Api.csproj.AssemblyReference.cache
+D:\IEN_PP2023_PROJECT\ProjectServices\InstitutoIENService\InstitutoIENServices.Api\obj\Debug\net7.0\InstitutoIENServices.Api.GeneratedMSBuildEditorConfig.editorconfig
+D:\IEN_PP2023_PROJECT\ProjectServices\InstitutoIENService\InstitutoIENServices.Api\obj\Debug\net7.0\InstitutoIENServices.Api.AssemblyInfoInputs.cache
+D:\IEN_PP2023_PROJECT\ProjectServices\InstitutoIENService\InstitutoIENServices.Api\obj\Debug\net7.0\InstitutoIENServices.Api.AssemblyInfo.cs
+D:\IEN_PP2023_PROJECT\ProjectServices\InstitutoIENService\InstitutoIENServices.Api\obj\Debug\net7.0\InstitutoIENServices.Api.csproj.CoreCompileInputs.cache
+D:\IEN_PP2023_PROJECT\ProjectServices\InstitutoIENService\InstitutoIENServices.Api\obj\Debug\net7.0\InstitutoIENServices.Api.MvcApplicationPartsAssemblyInfo.cs
+D:\IEN_PP2023_PROJECT\ProjectServices\InstitutoIENService\InstitutoIENServices.Api\obj\Debug\net7.0\InstitutoIENServices.Api.MvcApplicationPartsAssemblyInfo.cache
+D:\IEN_PP2023_PROJECT\ProjectServices\InstitutoIENService\InstitutoIENServices.Api\obj\Debug\net7.0\InstitutoIENServices.Api.sourcelink.json
+D:\IEN_PP2023_PROJECT\ProjectServices\InstitutoIENService\InstitutoIENServices.Api\bin\Debug\net7.0\appsettings.Development.json
+D:\IEN_PP2023_PROJECT\ProjectServices\InstitutoIENService\InstitutoIENServices.Api\bin\Debug\net7.0\appsettings.json
+D:\IEN_PP2023_PROJECT\ProjectServices\InstitutoIENService\InstitutoIENServices.Api\bin\Debug\net7.0\InstitutoIENServices.Api.exe
+D:\IEN_PP2023_PROJECT\ProjectServices\InstitutoIENService\InstitutoIENServices.Api\bin\Debug\net7.0\InstitutoIENServices.Api.deps.json
+D:\IEN_PP2023_PROJECT\ProjectServices\InstitutoIENService\InstitutoIENServices.Api\bin\Debug\net7.0\InstitutoIENServices.Api.runtimeconfig.json
+D:\IEN_PP2023_PROJECT\ProjectServices\InstitutoIENService\InstitutoIENServices.Api\bin\Debug\net7.0\InstitutoIENServices.Api.dll
+D:\IEN_PP2023_PROJECT\ProjectServices\InstitutoIENService\InstitutoIENServices.Api\bin\Debug\net7.0\InstitutoIENServices.Api.pdb
+D:\IEN_PP2023_PROJECT\ProjectServices\InstitutoIENService\InstitutoIENServices.Api\bin\Debug\net7.0\AutoMapper.dll
+D:\IEN_PP2023_PROJECT\ProjectServices\InstitutoIENService\InstitutoIENServices.Api\bin\Debug\net7.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+D:\IEN_PP2023_PROJECT\ProjectServices\InstitutoIENService\InstitutoIENServices.Api\bin\Debug\net7.0\Azure.Core.dll
+D:\IEN_PP2023_PROJECT\ProjectServices\InstitutoIENService\InstitutoIENServices.Api\bin\Debug\net7.0\Azure.Identity.dll
+D:\IEN_PP2023_PROJECT\ProjectServices\InstitutoIENService\InstitutoIENServices.Api\bin\Debug\net7.0\FluentValidation.dll
+D:\IEN_PP2023_PROJECT\ProjectServices\InstitutoIENService\InstitutoIENServices.Api\bin\Debug\net7.0\FluentValidation.AspNetCore.dll
+D:\IEN_PP2023_PROJECT\ProjectServices\InstitutoIENService\InstitutoIENServices.Api\bin\Debug\net7.0\FluentValidation.DependencyInjectionExtensions.dll
+D:\IEN_PP2023_PROJECT\ProjectServices\InstitutoIENService\InstitutoIENServices.Api\bin\Debug\net7.0\Humanizer.dll
+D:\IEN_PP2023_PROJECT\ProjectServices\InstitutoIENService\InstitutoIENServices.Api\bin\Debug\net7.0\Microsoft.AspNetCore.JsonPatch.dll
+D:\IEN_PP2023_PROJECT\ProjectServices\InstitutoIENService\InstitutoIENServices.Api\bin\Debug\net7.0\Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll
+D:\IEN_PP2023_PROJECT\ProjectServices\InstitutoIENService\InstitutoIENServices.Api\bin\Debug\net7.0\Microsoft.AspNetCore.Mvc.Razor.Extensions.dll
+D:\IEN_PP2023_PROJECT\ProjectServices\InstitutoIENService\InstitutoIENServices.Api\bin\Debug\net7.0\Microsoft.AspNetCore.Razor.Language.dll
+D:\IEN_PP2023_PROJECT\ProjectServices\InstitutoIENService\InstitutoIENServices.Api\bin\Debug\net7.0\Microsoft.Bcl.AsyncInterfaces.dll
+D:\IEN_PP2023_PROJECT\ProjectServices\InstitutoIENService\InstitutoIENServices.Api\bin\Debug\net7.0\Microsoft.CodeAnalysis.dll
+D:\IEN_PP2023_PROJECT\ProjectServices\InstitutoIENService\InstitutoIENServices.Api\bin\Debug\net7.0\Microsoft.CodeAnalysis.CSharp.dll
+D:\IEN_PP2023_PROJECT\ProjectServices\InstitutoIENService\InstitutoIENServices.Api\bin\Debug\net7.0\Microsoft.CodeAnalysis.Razor.dll
+D:\IEN_PP2023_PROJECT\ProjectServices\InstitutoIENService\InstitutoIENServices.Api\bin\Debug\net7.0\Microsoft.Data.SqlClient.dll
+D:\IEN_PP2023_PROJECT\ProjectServices\InstitutoIENService\InstitutoIENServices.Api\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.dll
+D:\IEN_PP2023_PROJECT\ProjectServices\InstitutoIENService\InstitutoIENServices.Api\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\IEN_PP2023_PROJECT\ProjectServices\InstitutoIENService\InstitutoIENServices.Api\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\IEN_PP2023_PROJECT\ProjectServices\InstitutoIENService\InstitutoIENServices.Api\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\IEN_PP2023_PROJECT\ProjectServices\InstitutoIENService\InstitutoIENServices.Api\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\IEN_PP2023_PROJECT\ProjectServices\InstitutoIENService\InstitutoIENServices.Api\bin\Debug\net7.0\Microsoft.Extensions.DependencyModel.dll
+D:\IEN_PP2023_PROJECT\ProjectServices\InstitutoIENService\InstitutoIENServices.Api\bin\Debug\net7.0\Microsoft.Identity.Client.dll
+D:\IEN_PP2023_PROJECT\ProjectServices\InstitutoIENService\InstitutoIENServices.Api\bin\Debug\net7.0\Microsoft.Identity.Client.Extensions.Msal.dll
+D:\IEN_PP2023_PROJECT\ProjectServices\InstitutoIENService\InstitutoIENServices.Api\bin\Debug\net7.0\Microsoft.IdentityModel.Abstractions.dll
+D:\IEN_PP2023_PROJECT\ProjectServices\InstitutoIENService\InstitutoIENServices.Api\bin\Debug\net7.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\IEN_PP2023_PROJECT\ProjectServices\InstitutoIENService\InstitutoIENServices.Api\bin\Debug\net7.0\Microsoft.IdentityModel.Logging.dll
+D:\IEN_PP2023_PROJECT\ProjectServices\InstitutoIENService\InstitutoIENServices.Api\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.dll
+D:\IEN_PP2023_PROJECT\ProjectServices\InstitutoIENService\InstitutoIENServices.Api\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\IEN_PP2023_PROJECT\ProjectServices\InstitutoIENService\InstitutoIENServices.Api\bin\Debug\net7.0\Microsoft.IdentityModel.Tokens.dll
+D:\IEN_PP2023_PROJECT\ProjectServices\InstitutoIENService\InstitutoIENServices.Api\bin\Debug\net7.0\Microsoft.SqlServer.Server.dll
+D:\IEN_PP2023_PROJECT\ProjectServices\InstitutoIENService\InstitutoIENServices.Api\bin\Debug\net7.0\Microsoft.Win32.SystemEvents.dll
+D:\IEN_PP2023_PROJECT\ProjectServices\InstitutoIENService\InstitutoIENServices.Api\bin\Debug\net7.0\Mono.TextTemplating.dll
+D:\IEN_PP2023_PROJECT\ProjectServices\InstitutoIENService\InstitutoIENServices.Api\bin\Debug\net7.0\Newtonsoft.Json.dll
+D:\IEN_PP2023_PROJECT\ProjectServices\InstitutoIENService\InstitutoIENServices.Api\bin\Debug\net7.0\Newtonsoft.Json.Bson.dll
+D:\IEN_PP2023_PROJECT\ProjectServices\InstitutoIENService\InstitutoIENServices.Api\bin\Debug\net7.0\System.CodeDom.dll
+D:\IEN_PP2023_PROJECT\ProjectServices\InstitutoIENService\InstitutoIENServices.Api\bin\Debug\net7.0\System.Configuration.ConfigurationManager.dll
+D:\IEN_PP2023_PROJECT\ProjectServices\InstitutoIENService\InstitutoIENServices.Api\bin\Debug\net7.0\System.Drawing.Common.dll
+D:\IEN_PP2023_PROJECT\ProjectServices\InstitutoIENService\InstitutoIENServices.Api\bin\Debug\net7.0\System.IdentityModel.Tokens.Jwt.dll
+D:\IEN_PP2023_PROJECT\ProjectServices\InstitutoIENService\InstitutoIENServices.Api\bin\Debug\net7.0\System.Memory.Data.dll
+D:\IEN_PP2023_PROJECT\ProjectServices\InstitutoIENService\InstitutoIENServices.Api\bin\Debug\net7.0\System.Runtime.Caching.dll
+D:\IEN_PP2023_PROJECT\ProjectServices\InstitutoIENService\InstitutoIENServices.Api\bin\Debug\net7.0\System.Security.Cryptography.ProtectedData.dll
+D:\IEN_PP2023_PROJECT\ProjectServices\InstitutoIENService\InstitutoIENServices.Api\bin\Debug\net7.0\System.Security.Permissions.dll
+D:\IEN_PP2023_PROJECT\ProjectServices\InstitutoIENService\InstitutoIENServices.Api\bin\Debug\net7.0\System.Windows.Extensions.dll
+D:\IEN_PP2023_PROJECT\ProjectServices\InstitutoIENService\InstitutoIENServices.Api\bin\Debug\net7.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+D:\IEN_PP2023_PROJECT\ProjectServices\InstitutoIENService\InstitutoIENServices.Api\bin\Debug\net7.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+D:\IEN_PP2023_PROJECT\ProjectServices\InstitutoIENService\InstitutoIENServices.Api\bin\Debug\net7.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\IEN_PP2023_PROJECT\ProjectServices\InstitutoIENService\InstitutoIENServices.Api\bin\Debug\net7.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\IEN_PP2023_PROJECT\ProjectServices\InstitutoIENService\InstitutoIENServices.Api\bin\Debug\net7.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\IEN_PP2023_PROJECT\ProjectServices\InstitutoIENService\InstitutoIENServices.Api\bin\Debug\net7.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\IEN_PP2023_PROJECT\ProjectServices\InstitutoIENService\InstitutoIENServices.Api\bin\Debug\net7.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+D:\IEN_PP2023_PROJECT\ProjectServices\InstitutoIENService\InstitutoIENServices.Api\bin\Debug\net7.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+D:\IEN_PP2023_PROJECT\ProjectServices\InstitutoIENService\InstitutoIENServices.Api\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+D:\IEN_PP2023_PROJECT\ProjectServices\InstitutoIENService\InstitutoIENServices.Api\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+D:\IEN_PP2023_PROJECT\ProjectServices\InstitutoIENService\InstitutoIENServices.Api\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+D:\IEN_PP2023_PROJECT\ProjectServices\InstitutoIENService\InstitutoIENServices.Api\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+D:\IEN_PP2023_PROJECT\ProjectServices\InstitutoIENService\InstitutoIENServices.Api\bin\Debug\net7.0\InstitutoIENService.Core.dll
+D:\IEN_PP2023_PROJECT\ProjectServices\InstitutoIENService\InstitutoIENServices.Api\bin\Debug\net7.0\InstitutoIENService.Infrastructure.dll
+D:\IEN_PP2023_PROJECT\ProjectServices\InstitutoIENService\InstitutoIENServices.Api\bin\Debug\net7.0\InstitutoIENService.Core.pdb
+D:\IEN_PP2023_PROJECT\ProjectServices\InstitutoIENService\InstitutoIENServices.Api\bin\Debug\net7.0\InstitutoIENService.Infrastructure.pdb
+D:\IEN_PP2023_PROJECT\ProjectServices\InstitutoIENService\InstitutoIENServices.Api\obj\Debug\net7.0\staticwebassets.build.json
+D:\IEN_PP2023_PROJECT\ProjectServices\InstitutoIENService\InstitutoIENServices.Api\obj\Debug\net7.0\staticwebassets.development.json
+D:\IEN_PP2023_PROJECT\ProjectServices\InstitutoIENService\InstitutoIENServices.Api\obj\Debug\net7.0\staticwebassets\msbuild.InstitutoIENServices.Api.Microsoft.AspNetCore.StaticWebAssets.props
+D:\IEN_PP2023_PROJECT\ProjectServices\InstitutoIENService\InstitutoIENServices.Api\obj\Debug\net7.0\staticwebassets\msbuild.build.InstitutoIENServices.Api.props
+D:\IEN_PP2023_PROJECT\ProjectServices\InstitutoIENService\InstitutoIENServices.Api\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.InstitutoIENServices.Api.props
+D:\IEN_PP2023_PROJECT\ProjectServices\InstitutoIENService\InstitutoIENServices.Api\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.InstitutoIENServices.Api.props
+D:\IEN_PP2023_PROJECT\ProjectServices\InstitutoIENService\InstitutoIENServices.Api\obj\Debug\net7.0\staticwebassets.pack.json
+D:\IEN_PP2023_PROJECT\ProjectServices\InstitutoIENService\InstitutoIENServices.Api\obj\Debug\net7.0\scopedcss\bundle\InstitutoIENServices.Api.styles.css
+D:\IEN_PP2023_PROJECT\ProjectServices\InstitutoIENService\InstitutoIENServices.Api\obj\Debug\net7.0\InstitutoIENServices.Api.csproj.CopyComplete
+D:\IEN_PP2023_PROJECT\ProjectServices\InstitutoIENService\InstitutoIENServices.Api\obj\Debug\net7.0\InstitutoIENServices.Api.genruntimeconfig.cache
+D:\IEN_PP2023_PROJECT\ProjectServices\InstitutoIENService\InstitutoIENServices.Api\obj\Debug\net7.0\ref\InstitutoIENServices.Api.dll

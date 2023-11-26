@@ -1,0 +1,23 @@
+C:\Datos\IEN\Proyecto 2023\IEN_PP2023_PROJECT\ProjectServices\InstitutoIENService\InstitutoIENService.Core\bin\Debug\net7.0\InstitutoIENService.Core.deps.json
+C:\Datos\IEN\Proyecto 2023\IEN_PP2023_PROJECT\ProjectServices\InstitutoIENService\InstitutoIENService.Core\bin\Debug\net7.0\InstitutoIENService.Core.dll
+C:\Datos\IEN\Proyecto 2023\IEN_PP2023_PROJECT\ProjectServices\InstitutoIENService\InstitutoIENService.Core\bin\Debug\net7.0\InstitutoIENService.Core.pdb
+C:\Datos\IEN\Proyecto 2023\IEN_PP2023_PROJECT\ProjectServices\InstitutoIENService\InstitutoIENService.Core\obj\Debug\net7.0\InstitutoIENService.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Datos\IEN\Proyecto 2023\IEN_PP2023_PROJECT\ProjectServices\InstitutoIENService\InstitutoIENService.Core\obj\Debug\net7.0\InstitutoIENService.Core.AssemblyInfoInputs.cache
+C:\Datos\IEN\Proyecto 2023\IEN_PP2023_PROJECT\ProjectServices\InstitutoIENService\InstitutoIENService.Core\obj\Debug\net7.0\InstitutoIENService.Core.AssemblyInfo.cs
+C:\Datos\IEN\Proyecto 2023\IEN_PP2023_PROJECT\ProjectServices\InstitutoIENService\InstitutoIENService.Core\obj\Debug\net7.0\InstitutoIENService.Core.csproj.CoreCompileInputs.cache
+C:\Datos\IEN\Proyecto 2023\IEN_PP2023_PROJECT\ProjectServices\InstitutoIENService\InstitutoIENService.Core\obj\Debug\net7.0\InstitutoIENService.Core.dll
+C:\Datos\IEN\Proyecto 2023\IEN_PP2023_PROJECT\ProjectServices\InstitutoIENService\InstitutoIENService.Core\obj\Debug\net7.0\refint\InstitutoIENService.Core.dll
+C:\Datos\IEN\Proyecto 2023\IEN_PP2023_PROJECT\ProjectServices\InstitutoIENService\InstitutoIENService.Core\obj\Debug\net7.0\InstitutoIENService.Core.pdb
+C:\Datos\IEN\Proyecto 2023\IEN_PP2023_PROJECT\ProjectServices\InstitutoIENService\InstitutoIENService.Core\obj\Debug\net7.0\ref\InstitutoIENService.Core.dll
+D:\IEN_PP2023_PROJECT\ProjectServices\InstitutoIENService\InstitutoIENService.Core\obj\Debug\net7.0\InstitutoIENService.Core.GeneratedMSBuildEditorConfig.editorconfig
+D:\IEN_PP2023_PROJECT\ProjectServices\InstitutoIENService\InstitutoIENService.Core\obj\Debug\net7.0\InstitutoIENService.Core.AssemblyInfoInputs.cache
+D:\IEN_PP2023_PROJECT\ProjectServices\InstitutoIENService\InstitutoIENService.Core\obj\Debug\net7.0\InstitutoIENService.Core.AssemblyInfo.cs
+D:\IEN_PP2023_PROJECT\ProjectServices\InstitutoIENService\InstitutoIENService.Core\obj\Debug\net7.0\InstitutoIENService.Core.csproj.CoreCompileInputs.cache
+D:\IEN_PP2023_PROJECT\ProjectServices\InstitutoIENService\InstitutoIENService.Core\obj\Debug\net7.0\InstitutoIENService.Core.sourcelink.json
+D:\IEN_PP2023_PROJECT\ProjectServices\InstitutoIENService\InstitutoIENService.Core\obj\Debug\net7.0\InstitutoIENService.Core.dll
+D:\IEN_PP2023_PROJECT\ProjectServices\InstitutoIENService\InstitutoIENService.Core\obj\Debug\net7.0\refint\InstitutoIENService.Core.dll
+D:\IEN_PP2023_PROJECT\ProjectServices\InstitutoIENService\InstitutoIENService.Core\obj\Debug\net7.0\InstitutoIENService.Core.pdb
+D:\IEN_PP2023_PROJECT\ProjectServices\InstitutoIENService\InstitutoIENService.Core\bin\Debug\net7.0\InstitutoIENService.Core.deps.json
+D:\IEN_PP2023_PROJECT\ProjectServices\InstitutoIENService\InstitutoIENService.Core\bin\Debug\net7.0\InstitutoIENService.Core.dll
+D:\IEN_PP2023_PROJECT\ProjectServices\InstitutoIENService\InstitutoIENService.Core\bin\Debug\net7.0\InstitutoIENService.Core.pdb
+D:\IEN_PP2023_PROJECT\ProjectServices\InstitutoIENService\InstitutoIENService.Core\obj\Debug\net7.0\ref\InstitutoIENService.Core.dll
